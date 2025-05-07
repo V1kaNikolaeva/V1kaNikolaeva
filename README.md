@@ -6,6 +6,6 @@ Working on my own chinese language educational platform...📚
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=V1kaNikolaeva&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=V1kaNikolaeva&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=V1kaNikolaeva&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=V1kaNikolaeva&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
 
